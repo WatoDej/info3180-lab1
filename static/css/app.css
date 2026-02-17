@@ -3,6 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   background-color: #16bbf3;
+  align-items: center;
 }
 
 .container {
@@ -25,4 +26,14 @@ h1{
   font-style: italic;
   font-weight: bold;
   color: rgb(0, 97, 233);
+  border-radius: 10px;
+}
+img{
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 15px 10px 32px rgba(32, 3, 86, 0.433);
+  margin: 20px auto;
+  display: block;
+
 }
